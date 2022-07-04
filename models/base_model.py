@@ -8,7 +8,7 @@ from datetime import datetime
 import models
 
 class BaseModel:
-    ''' BaseModel - attributes and methods'''
+    ''' BaseModel - attributes and methods '''
     def __init__(self, *args, **kwargs):
 
         if len(kwargs) > 0:
