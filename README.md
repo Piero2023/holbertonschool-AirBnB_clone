@@ -5,7 +5,7 @@
 
 ## Description
 <p>
-
+A command interpreter to manage your AirBnB objects, it is a limited to specific use-cases for managing the objects of this project.
 </p>
 
 ## Learning Objectives
@@ -63,4 +63,4 @@ $
 ```
 # Authors
 * Piero Ramírez - [GitHub](https://github.com/Piero2023) - [Linkedin](https://www.linkedin.com/in/piero-fernando-ram%C3%ADrez-esteban-33b8b822a/)
-* Edgar Condo - [GitHub]() - [Linkedin]()
+* Edgar Condo - [GitHub](https://github.com/EdgaWill) - [Linkedin]()
